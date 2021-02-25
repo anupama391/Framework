@@ -27,7 +27,7 @@ public class RightClickTest {
 		driver.manage().window().maximize();
 	}
 	
-	//This is new commit from Anupama
+	
 	@Test
 	public void rightClicktest() {
 		driver.navigate().to(URL);
