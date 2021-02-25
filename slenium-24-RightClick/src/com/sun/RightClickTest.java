@@ -26,6 +26,8 @@ public class RightClickTest {
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
 	}
+	
+	//This is new commit from Anupama
 	@Test
 	public void rightClicktest() {
 		driver.navigate().to(URL);
