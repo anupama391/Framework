@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.sun.ContextClick">
+      <class name="Com.Sun.BulkUpload">
         <methods>
-          <include name="RightClickTest"/>
+          <include name="Test"/>
         </methods>
-      </class> <!-- com.sun.ContextClick -->
+      </class> <!-- Com.Sun.BulkUpload -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
